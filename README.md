@@ -11,3 +11,5 @@
   * Day 5 - Blurry Loading | Output - [Click Here](https://webx-divin.github.io/50-Mini-Projects/Day%205/index.html)
 
   * Day 6 - Scroll Animation | Output - [Click Here](https://webx-divin.github.io/50-Mini-Projects/Day%206/index.html)
+
+  * Day 7 - Split Landing Page | Output - [Click Here](https://webx-divin.github.io/50-Mini-Projects/Day%207/index.html)
