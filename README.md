@@ -17,3 +17,5 @@
   * Day 8 - Login Form 💙 | Output - [Click Here](https://webx-divin.github.io/50-Mini-Projects/Day%208/index.html)
 
   * Day 9 - Sound Board | Output - [Click Here](https://webx-divin.github.io/50-Mini-Projects/Day%209/index.html)
+
+  * Day 10 - Random Joke (US Version) | Output -[Click Here]()
