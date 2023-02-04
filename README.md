@@ -18,4 +18,6 @@
 
   * Day 9 - Sound Board | Output - [Click Here](https://webx-divin.github.io/50-Mini-Projects/Day%209/index.html)
 
-  * Day 10 - Random Joke (US Version) | Output -[Click Here]()
+  * Day 10 - Random Joke (US Version) | Output -[Click Here](https://webx-divin.github.io/50-Mini-Projects/Day%2010/index.html)
+
+  * Day 11 - Event KeyCodes | Output - [Click Here](https://webx-divin.github.io/50-Mini-Projects/Day%2011/index.html)
