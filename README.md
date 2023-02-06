@@ -23,3 +23,5 @@
   * Day 11 - Event KeyCodes | Output - [Click Here](https://webx-divin.github.io/50-Mini-Projects/Day%2011/index.html)
 
   * Day 12 - FAQ | Output - [Click Here](https://webx-divin.github.io/50-Mini-Projects/Day%2012/index.html)
+
+  * Day 13 - Random Choice Picker | Output - [Click Here](https://webx-divin.github.io/50-Mini-Projects/Day%2013/index.html)
