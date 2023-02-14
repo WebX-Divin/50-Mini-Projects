@@ -27,7 +27,6 @@
   * Day 13 - Random Choice Picker | Output - [Click Here](https://webx-divin.github.io/50-Mini-Projects/Day%2013/index.html)
 
   * Day 14 - Animated Navigation | Output - [Click Here](https://webx-divin.github.io/50-Mini-Projects/Day%2014/index.html)
-<<<<<<< Updated upstream
   
   
   * Project Paused until 10.03
